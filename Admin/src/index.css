@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Base reset for full-width admin dashboard layout */
+html, body, #root {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
